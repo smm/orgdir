@@ -61,3 +61,7 @@ ul {
     background: transparent url(images/ic_action_location.png);
     background-repeat: no-repeat;
 }
+
+.bar-nav {
+	margin-top: 5px;
+}
